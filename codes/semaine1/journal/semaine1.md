@@ -11,6 +11,9 @@ THEME : Mise en place d’une Big data et d’une Intelligence Artificielle pour
 santé.
 EXTRACTION D'arcticle World malaria report 2022/2023. Geneva: World Health Organization réalisée à Nouakchott.
 On a suivi Une étude prospective du  paludisme  au Centre de santé de Teyarett et ou au service pédiatrique du Centre hospitalier Mère et Enfants.
+PROBLEMATIQUE : 1- Collect de donnees 2-Défis technologiques (L’intégration de données pose également un probleme importantes dans la difficultés techniques) 3- Probléme organisationnels 
+APPROCHE PROPOSE : 1- Des patients ambulatoires fébriles avec une suspicion clinique de paludisme se présentant spontanément au Centre de santé de Teyarett ou au service édiatrique du Centre hospitalier Mère et Enfants ont été dépistés pour le paludisme à l'aide d'un test de diagnostic rapide, d'un examen microscopique de frottis sanguins colorés au Giemsa et d'une réaction en chaîne par polymérase en milieu niché.
+TECHNOLOGIE UTILISE : GraphPad Prism et du logiciel InStat.
 
 
 
