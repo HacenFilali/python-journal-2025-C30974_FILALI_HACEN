@@ -7,4 +7,10 @@ Listez les notions Clé que j'ai appris cette semaine : 1-Python , 2-pandas , 3-
 Les  attentes des prochaines semaines de la  formation : 1- Avoir plus d'Information et d'apprentissage sur environement  DIS-Anaconda et les API spyder et Matplotlib. 2- Un approfondissement sur le language PYTHON.
 Les difficultés rencontrées : 1-Creation d'un Dossier via ligne de commande 2- Partage de mon dépôt via Google colab 3- des difficulté en essayant la procedure Virtualisation via INVITE Cmd pour le partage du fichier G.Colab
 
+THEME : Mise en place d’une Big data et d’une Intelligence Artificielle pour Mise en place d’une Big data et d’une Intelligence Artificielle pour l’aide au diagnostic et la prise de décision dans le domaine de la
+santé.
+EXTRACTION D'arcticle World malaria report 2022/2023. Geneva: World Health Organization réalisée à Nouakchott.
+On a suivi Une étude prospective du  paludisme  au Centre de santé de Teyarett et ou au service pédiatrique du Centre hospitalier Mère et Enfants.
+
+
 
